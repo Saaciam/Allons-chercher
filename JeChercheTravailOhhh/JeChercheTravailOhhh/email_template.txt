@@ -1,0 +1,19 @@
+SUBJECT: CANDIDATURE STAGE DATA / INTELLIGENCE ARTIFICIELLE - {prenom_expediteur} {nom_expediteur}
+
+Bonjour {prenom},
+
+Je me permets de vous contacter dans le cadre de ma recherche d'un stage de {duree_stage} mois en Data et Intelligence Artificielle, à partir de {periode_stage}. Je souhaite vous faire part de mon intérêt pour une opportunité au sein de {entreprise}.
+
+Actuellement en Master 2 MIAGE, option Data & Business Intelligence, à l'Université de Rennes, je m'intéresse à l'IA générative, au data engineering et aux systèmes intelligents. Mes compétences comprennent Python, SQL et Power BI. Mes projets académiques portent notamment sur la classification de panneaux routiers par réseaux de neurones convolutifs et la prédiction de souscription bancaire. J'aimerais mettre ces acquis au service de projets concrets et poursuivre mon apprentissage au sein de votre équipe.
+
+Si votre équipe accueille des stagiaires, ou si vous pouvez m'orienter vers la personne chargée du recrutement, je vous en serais reconnaissant. Je vous joins mon CV afin de vous permettre d'en savoir davantage sur mon parcours et mes compétences.
+
+Je serais ravi d'échanger avec vous pour vous présenter ma motivation et discuter d'une éventuelle opportunité.
+
+Je vous remercie pour votre attention et reste à votre disposition pour tout échange complémentaire.
+
+Cordialement,
+
+{prenom_expediteur} {nom_expediteur}
+{email_expediteur}
+{telephone_expediteur}

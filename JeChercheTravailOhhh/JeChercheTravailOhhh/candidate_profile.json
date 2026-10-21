@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "source_cv": "CHRISTOPHER_KOUTOUA.pdf",
+  "source_note": "Formation, compétences, projets, coordonnées et langues transcrits du CV CHRISTOPHER_KOUTOUA.pdf. Liens récupérés dans les annotations du PDF. Le nom complet et les intérêts pour l'IA générative et le data engineering proviennent du modèle d'email fourni par Christopher. Le CV indique une disponibilité à partir de mars 2027 : 2027-03-01 représente le début de ce mois, sans affirmer un jour de prise de poste convenu. Les compétences CNN, classification, prétraitement d'images et évaluation sont attestées par les descriptions des projets ; aucune pratique des modèles de langage n'est attestée.",
+  "identity": {
+    "first_name": "Christopher Isaac William",
+    "last_name": "KOUTOUA",
+    "display_name": "Christopher Isaac William KOUTOUA",
+    "email": "ckoutoua25@gmail.com",
+    "phone": "+33 7 53 26 00 25",
+    "linkedin": "https://www.linkedin.com/in/christopher-koutoua-36a536306/",
+    "github": "https://github.com/Saaciam"
+  },
+  "internship": {
+    "duration_months": 6,
+    "available_from": "2027-03-01",
+    "mobility": "France"
+  },
+  "summary": "Étudiant en Master 2 MIAGE, option Data & Business Intelligence, à l'ISTIC, Université de Rennes. Compétences en Python, SQL et Power BI, avec des projets académiques de classification et de réseaux de neurones convolutifs. Recherche d'un stage de 6 mois à partir de mars 2027, avec une mobilité en France.",
+  "skills": [
+    {"id": "javascript", "label": "JavaScript", "aliases": ["javascript", "js"], "category": "Développement Front-End"},
+    {"id": "html", "label": "HTML", "aliases": ["html"], "category": "Développement Front-End"},
+    {"id": "css", "label": "CSS", "aliases": ["css"], "category": "Développement Front-End"},
+    {"id": "tailwind-css", "label": "Tailwind CSS", "aliases": ["tailwind", "tailwind css"], "category": "Développement Front-End"},
+    {"id": "responsive-design", "label": "Responsive Design", "aliases": ["responsive", "responsive design", "site responsive"], "category": "Développement Front-End"},
+    {"id": "laravel", "label": "Laravel", "aliases": ["laravel"], "category": "Développement Back-End & API"},
+    {"id": "php", "label": "PHP", "aliases": ["php"], "category": "Développement Back-End & API"},
+    {"id": "rest-api", "label": "Conception d'API RESTful", "aliases": ["api rest", "rest api", "restful", "api restful"], "category": "Développement Back-End & API"},
+    {"id": "mysql", "label": "MySQL", "aliases": ["mysql"], "category": "Bases de données & Cloud"},
+    {"id": "mongodb", "label": "MongoDB", "aliases": ["mongodb", "mongo db"], "category": "Bases de données & Cloud"},
+    {"id": "oracle", "label": "Oracle", "aliases": ["oracle"], "category": "Bases de données & Cloud"},
+    {"id": "aws", "label": "AWS", "aliases": ["aws", "amazon web services"], "category": "Bases de données & Cloud"},
+    {"id": "python", "label": "Python", "aliases": ["python"], "category": "Data et programmation"},
+    {"id": "r", "label": "R", "aliases": ["r", "langage r", "r language"], "category": "Data et programmation"},
+    {"id": "dax", "label": "DAX", "aliases": ["dax", "data analysis expressions"], "category": "Data et programmation"},
+    {"id": "power-query", "label": "Power Query", "aliases": ["power query", "powerquery"], "category": "Data et programmation"},
+    {"id": "sql", "label": "SQL", "aliases": ["sql"], "category": "Data et programmation"},
+    {"id": "java", "label": "Java", "aliases": ["java"], "category": "Data et programmation"},
+    {"id": "javafx", "label": "JavaFX", "aliases": ["javafx", "java fx"], "category": "Data et programmation"},
+    {"id": "power-bi", "label": "Power BI", "aliases": ["power bi", "powerbi", "microsoft power bi"], "category": "BI et Dataviz"},
+    {"id": "talend", "label": "Talend", "aliases": ["talend"], "category": "BI et Dataviz"},
+    {"id": "merise", "label": "Merise", "aliases": ["merise"], "category": "Modélisation"},
+    {"id": "uml", "label": "UML", "aliases": ["uml", "unified modeling language"], "category": "Modélisation"},
+    {"id": "star-snowflake-schema", "label": "Schéma étoile / flocon", "aliases": ["schéma étoile", "schema etoile", "schéma en étoile", "star schema", "schéma flocon", "schema flocon", "snowflake schema"], "category": "Modélisation"},
+    {"id": "git", "label": "Git", "aliases": ["git"], "category": "Outils et méthodes"},
+    {"id": "github", "label": "GitHub", "aliases": ["github"], "category": "Outils et méthodes"},
+    {"id": "gitlab", "label": "GitLab", "aliases": ["gitlab"], "category": "Outils et méthodes"},
+    {"id": "ci-cd", "label": "CI/CD", "aliases": ["ci/cd", "ci cd", "continuous integration", "intégration continue", "integration continue"], "category": "Outils et méthodes"},
+    {"id": "figma", "label": "Figma", "aliases": ["figma"], "category": "Outils et méthodes"},
+    {"id": "talend-studio", "label": "Talend Studio", "aliases": ["talend studio"], "category": "Outils et méthodes"},
+    {"id": "r-studio", "label": "R Studio", "aliases": ["r studio", "rstudio"], "category": "Outils et méthodes"},
+    {"id": "microsoft-office", "label": "Microsoft Office", "aliases": ["microsoft office", "office", "suite office"], "category": "Outils et méthodes"},
+    {"id": "modelio", "label": "Modelio", "aliases": ["modelio"], "category": "Outils et méthodes"},
+    {"id": "snowflake", "label": "Snowflake", "aliases": ["snowflake"], "category": "Outils et méthodes"},
+    {"id": "cnn", "label": "Réseaux de neurones convolutifs (CNN)", "aliases": ["cnn", "convolutional neural network", "convolutional neural networks", "réseaux de neurones convolutifs", "reseaux de neurones convolutifs"], "category": "Compétences attestées par les projets"},
+    {"id": "machine-learning", "label": "Apprentissage automatique / classification", "aliases": ["machine learning", "apprentissage automatique", "ml"], "category": "Compétences attestées par les projets"},
+    {"id": "classification", "label": "Classification", "aliases": ["classification", "image classification", "classification d'images"], "category": "Compétences attestées par les projets"},
+    {"id": "image-preprocessing", "label": "Prétraitement d'images", "aliases": ["prétraitement", "pretraitement", "image preprocessing", "prétraitement d'images", "pretraitement d'images"], "category": "Compétences attestées par les projets"},
+    {"id": "class-imbalance", "label": "Gestion du déséquilibre des classes", "aliases": ["déséquilibre des classes", "desequilibre des classes", "class imbalance", "imbalanced classes"], "category": "Compétences attestées par les projets"},
+    {"id": "model-evaluation", "label": "Comparaison et évaluation de modèles", "aliases": ["évaluation de modèles", "evaluation de modeles", "model evaluation", "comparaison de modèles", "comparaison de modeles"], "category": "Compétences attestées par les projets"},
+    {"id": "pr-auc", "label": "PR-AUC", "aliases": ["pr-auc", "pr auc", "precision-recall auc"], "category": "Compétences attestées par les projets"},
+    {"id": "f1-score", "label": "F1-score", "aliases": ["f1-score", "f1 score"], "category": "Compétences attestées par les projets"},
+    {"id": "requirements-analysis", "label": "Analyse des besoins et des exigences", "aliases": ["analyse des besoins", "recueil du besoin", "requirements analysis", "ingénierie des exigences", "ingenierie des exigences"], "category": "Compétences attestées par les projets"}
+  ],
+  "education": [
+    {"title": "Master 2 MIAGE, option Data & Business Intelligence", "institution": "ISTIC, Université de Rennes 1", "location": "France", "period": "En cours"},
+    {"title": "Master 2 MIAGE", "institution": "Université Félix Houphouët-Boigny & Université de Rennes 1", "location": "Côte d'Ivoire & France", "period": "2025 – 2026"},
+    {"title": "Master 1 MIAGE", "institution": "Université Félix Houphouët-Boigny & Université de Rennes 1", "location": "Côte d'Ivoire & France", "period": "2024 – 2025"},
+    {"title": "Licence MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)", "institution": "Université Félix Houphouët-Boigny & Université de Rennes 1", "location": "Côte d'Ivoire & France", "period": "2021 – 2024"}
+  ],
+  "projects": [
+    {"id": "traffic-signs", "title": "Détecteur de panneaux routiers", "type": "Projet académique — cours d'intelligence artificielle", "period": "Mai 2026", "description": "Réalisation d'un réseau de neurones convolutifs (CNN) entraîné sur GTSRB pour classifier des images de panneaux routiers, avec un pipeline de prétraitement et des prédictions accompagnées d'un score de confiance. Code source, rapport et application disponibles sur GitHub.", "skills": ["cnn", "machine-learning", "classification", "image-preprocessing"], "url": "https://github.com/Saaciam/detecteur-image"},
+    {"id": "bank-marketing", "title": "Bank Marketing — prédiction de souscription bancaire", "type": "Projet académique — cours de fouilles de données statistiques", "period": "Avril 2026", "description": "Pipeline complet de classification pour prédire la souscription d'un produit bancaire : comparaison de plusieurs modèles, gestion du déséquilibre des classes et évaluation par PR-AUC et F1-score. Code source et rapport disponibles sur GitHub.", "skills": ["machine-learning", "classification", "class-imbalance", "model-evaluation", "pr-auc", "f1-score"], "url": "https://github.com/Saaciam/ML-Projects"},
+    {"id": "requirements-engineering", "title": "Projet d'ingénierie des exigences", "type": "Projet académique", "period": "Mars 2026", "description": "Modélisation d'un système de gestion des accès pour des usines, lieux de culte, hôpitaux, sites sportifs et complexes commerciaux. Analyse des besoins clients, spécification et modélisation des exigences fonctionnelles et techniques sous Modelio (UML). Rapport disponible sur GitHub.", "skills": ["requirements-analysis", "modelio", "uml"], "url": "https://github.com/Saaciam/Conception"},
+    {"id": "la-louisette", "title": "La Louisette — développeur web freelance", "type": "Projet freelance — restaurant en Côte d'Ivoire", "period": "2024 – 2025", "description": "Conception et réalisation du site vitrine responsive du restaurant La Louisette à Abidjan : menu interactif, carte des vins, galerie photos et identité visuelle. Accompagnement du client, recueil du besoin et maquettage Figma.", "skills": ["responsive-design", "requirements-analysis", "figma"]}
+  ],
+  "languages": [
+    {"name": "Français", "level": "Natif"},
+    {"name": "Anglais", "level": "Professionnel / B1"}
+  ],
+  "interests": ["Veille technologique", "UI/UX Design", "Cinéma", "Football", "Intelligence artificielle", "IA générative", "Data engineering"]
+}

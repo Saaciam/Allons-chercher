@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#172338">
+  <meta name="description" content="Votre espace personnel pour trouver un stage, adapter vos candidatures et suivre vos envois.">
+  <title>Mon stage · Mes candidatures</title>
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/app.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Aller au contenu</a>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Navigation principale">
+      <a href="#dashboard" class="brand"><span class="brand-icon" aria-hidden="true">m<span>↗</span></span><span>mon stage<span class="brand-dot">.</span></span></a>
+      <div class="workspace-label">MON ESPACE CANDIDAT</div>
+      <nav class="nav-list">
+        <a href="#dashboard" data-page="dashboard" class="nav-item active"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>Tableau de bord</a>
+        <a href="#offers" data-page="offers" class="nav-item"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7" width="18" height="14" rx="2"/><path d="M8 7V4h8v3M3 12h18M10 12v3h4v-3"/></svg>Offres <span id="offers-count" class="nav-count" hidden>0</span></a>
+        <a href="#alerts" data-page="alerts" class="nav-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9M10 21h4"/></svg>Mes alertes</a>
+        <a href="#applications" data-page="applications" class="nav-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6zM14 3v5h5M9 12h7M9 16h7"/></svg>Candidatures <span id="applications-count" class="nav-count">0</span></a>
+        <a href="#contacts" data-page="contacts" class="nav-item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3"/><path d="M3 21v-3a6 6 0 0 1 12 0v3M16 5a3 3 0 0 1 0 6M18 15a5 5 0 0 1 3 5"/></svg>Contacts</a>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="sidebar-note"><span class="live-dot"></span>Un pas vers votre prochain stage<p>Vos recherches, votre parcours.<br>Tout est au même endroit.</p></div>
+        <a href="#profile" data-page="profile" class="profile-link"><span id="sidebar-avatar" class="avatar">CK</span><span><strong id="sidebar-name">Christopher</strong><small>Mon profil</small></span><span class="profile-chevron" aria-hidden="true">›</span></a>
+      </div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar">
+        <div class="breadcrumb"><span>Mon espace</span><span aria-hidden="true">/</span><strong id="page-title">Tableau de bord</strong></div>
+        <div class="topbar-actions"><span class="private-label"><span class="live-dot"></span>Espace personnel</span><button id="notifications-button" class="icon-button notification-button" aria-label="Voir les notifications"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9M10 21h4"/></svg><span id="notification-count" class="notification-count" hidden>0</span></button><a href="#profile" class="topbar-avatar avatar" id="topbar-avatar" aria-label="Mon profil">CK</a></div>
+      </header>
+      <main id="main" tabindex="-1">
+        <div id="page-content"><div class="loading-screen"><span class="spinner"></span><p>Votre espace se prépare…</p></div></div>
+      </main>
+      <footer class="app-footer"><span>Mon stage · Un projet qui vous ressemble.</span><span>Votre parcours reste la source de chaque candidature.</span></footer>
+    </div>
+  </div>
+  <dialog id="modal" aria-labelledby="modal-title"><div class="modal-top"><div><span id="modal-kicker" class="eyebrow">MON ESPACE</span><h2 id="modal-title"></h2></div><button id="modal-close" type="button" class="icon-button" aria-label="Fermer"><span aria-hidden="true">×</span></button></div><div id="modal-body"></div></dialog>
+  <div id="toast-region" aria-live="polite" aria-atomic="true"></div>
+  <datalist id="location-suggestions"></datalist>
+  <noscript><p class="noscript">Activez JavaScript pour utiliser votre espace de candidatures.</p></noscript>
+</body>
+</html>

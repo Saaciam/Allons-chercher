@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+contacts.csv
+contacts.*.csv
+candidatures/
+data/
+exemples_generes/
+applications/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store

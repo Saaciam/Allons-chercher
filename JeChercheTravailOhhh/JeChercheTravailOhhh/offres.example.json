@@ -1,0 +1,22 @@
+[
+  {
+    "id": "exemple-data-bi",
+    "entreprise": "Entreprise fictive — Exemple Data BI",
+    "intitule": "Stage Data Analyst / Business Intelligence",
+    "description": "EXEMPLE FICTIF destiné à tester la préparation d'une candidature ; aucune offre réelle ni entreprise réelle. Stage de 6 mois à partir de mars 2027. Missions : concevoir des requêtes SQL, préparer les données avec Power Query, construire des tableaux de bord Power BI et des indicateurs DAX. Compétences recherchées : SQL, Power BI, Power Query, DAX, modélisation en schéma étoile et Python. Formation Master MIAGE ou équivalente.",
+    "lieu": "Rennes, France (exemple fictif)",
+    "date_debut": "2027-03-01",
+    "duree_mois": 6,
+    "contact": {"email": "", "prenom": "", "nom": ""}
+  },
+  {
+    "id": "exemple-ia",
+    "entreprise": "Entreprise fictive — Exemple IA",
+    "intitule": "Stage Intelligence Artificielle / Classification d'images",
+    "description": "EXEMPLE FICTIF destiné à tester la préparation d'une candidature ; aucune offre réelle ni entreprise réelle. Stage de 6 mois à partir de mars 2027. Missions : travailler en Python sur la classification d'images, les réseaux de neurones convolutifs (CNN), le prétraitement d'images et l'évaluation de modèles. Contribuer à des expérimentations de modèles de langage (LLM) et d'IA générative. Compétences recherchées : Python, CNN, machine learning, classification et expérience pratique des LLM. L'exigence LLM sert à vérifier que le processus signale une compétence absente du CV au lieu de l'inventer.",
+    "lieu": "Paris, France (exemple fictif)",
+    "date_debut": "2027-03-01",
+    "duree_mois": 6,
+    "contact": {"email": "", "prenom": "", "nom": ""}
+  }
+]
